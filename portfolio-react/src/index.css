@@ -314,7 +314,7 @@ section{position:relative;z-index:1}
 
 /* FOOTER */
 footer{border-top:1px solid var(--border);padding:2rem 3rem;display:flex;justify-content:space-between;align-items:center;position:relative;z-index:1}
-.foot-copy,.foot-right{font-family:var(--mono);font-size:.67rem;color:var(--muted);letter-spacing:.06em}
+.f-l,.f-r{font-family:var(--mono);font-size:.67rem;color:var(--muted);letter-spacing:.06em}
 
 /* SCROLL PROGRESS */
 #scroll-bar{position:fixed;top:0;left:0;height:2px;background:var(--accent);z-index:9999;width:0%;transition:width .1s linear;box-shadow:0 0 8px var(--accent)}

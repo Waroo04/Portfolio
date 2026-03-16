@@ -1,8 +1,8 @@
 export default function Footer() {
   return (
     <footer>
-      <div className="foot-copy">© {new Date().getFullYear()} Swaroop Supal</div>
-      <div className="foot-right">Thane, Maharashtra, IN</div>
+      <div className="f-l">© 2025 Swaroop Supal — All rights reserved</div>
+      <div className="f-r">Thane, Maharashtra, IN</div>
     </footer>
   );
 }
