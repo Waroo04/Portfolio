@@ -47,6 +47,7 @@ export default function Contact() {
           <p className="c-sub" style={{color: 'var(--muted)', fontSize: '.96rem', lineHeight: 1.9, marginBottom: '2.5rem'}}>
             Open to cybersecurity internships, research collaborations, and CTF team opportunities. Let's build something that fights back.
           </p>
+          <a href="/resume.pdf" download="Swaroop_Supal_Resume.pdf" className="btn-a">Download Resume</a>
         </div>
         <div className="c-links">
           <a href="mailto:swaroopsupal05@gmail.com" className="c-link">
